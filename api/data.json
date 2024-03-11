@@ -2,14 +2,14 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.4/BraveNewPipe_kitkatv0.26.1-2.1.8.4.apk",
+        "apk": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.6/BraveNewPipe_kitkat_v0.26.1-2.1.8.6.apk",
         "alternative_apks": [
           {
             "alternative": "conscrypt",
-            "url": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.4/BraveNewPipe_kitkatv0.26.1-2.1.8.4.apk"
+            "url": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.6/BraveNewPipe_kitkat_v0.26.1-2.1.8.6.apk"
           }
         ],
-        "version": "0.26.1-2.1.8.4",
+        "version": "0.26.1-2.1.8.6",
         "version_code": 26996
       }
     }
