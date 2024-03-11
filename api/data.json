@@ -2,15 +2,15 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/BraveNewPipeLegacy/releases/download/v0.23.3-2.1.6/BraveNewPipeLegacy_v0.23.3-2.1.6.apk",
+        "apk": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.4/BraveNewPipe_kitkatv0.26.1-2.1.8.4.apk",
         "alternative_apks": [
           {
             "alternative": "conscrypt",
-            "url": "https://github.com/bravenewpipe/BraveNewPipeLegacy/releases/download/v0.23.3-2.1.6/BraveNewPipeLegacy_conscrypt_v0.23.3-2.1.6.apk"
+            "url": "https://github.com/evermind-zz/bnp-testing/releases/download/v0.26.1-2.1.8.4/BraveNewPipe_kitkatv0.26.1-2.1.8.4.apk"
           }
         ],
-        "version": "0.23.3-2.1.6",
-        "version_code": 24990
+        "version": "0.26.1-2.1.8.4",
+        "version_code": 26996
       }
     }
   }
